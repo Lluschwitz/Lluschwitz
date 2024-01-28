@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Luke Luschwitz** and I am an AI/ML engineer. I am currently pursuing my Bachelor's Degree and Master's Degree at Computer Science at Purdue University. 
+My name is **Luke Luschwitz** and I am an AI/ML engineer and a Game Developer hobbyist. I am currently pursuing my Bachelor's Degree and Master's Degree at Computer Science at Purdue University. 
 
 You can visit my _website_ here: [https://sites.google.com/view/luke-luschwitz](https://sites.google.com/view/luke-luschwitz).
 
