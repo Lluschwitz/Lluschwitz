@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-My name is **Luke Luschwitz** and this repository is for my personal website.
+My name is **Luke Luschwitz** and I am an AI/ML engineer.
 
-You can visit my website here: [https://lluschwitz.github.io/Lluschwitz/](https://lluschwitz.github.io/Lluschwitz/).
+You can visit my website here: [https://sites.google.com/view/luke-luschwitz](https://sites.google.com/view/luke-luschwitz).
+You can visit my LinkedIn here: [https://sites.google.com/view/luke-luschwitz](https://www.linkedin.com/in/luke-luschwitz/).
 
 <!--
 **Lluschwitz/Lluschwitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
